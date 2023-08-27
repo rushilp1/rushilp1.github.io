@@ -36,13 +36,13 @@
 > [!NOTE]
 > Use Node v16 to ensure that everything works (and builds) smoothly!
 
-3. Install dependencies
+1. Install dependencies
 
    ```sh
    yarn
    ```
 
-4. Start the development server
+2. Start the development server
 
    ```sh
    npm start
