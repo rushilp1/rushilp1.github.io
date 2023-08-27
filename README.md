@@ -70,4 +70,4 @@
 
 ---
 
-This repo was originally cloned from [Brittany Chiang](https://brittanychiang.com)'s portfolio repo. To know more about the forking and accreditation rules, check out her [repo](https://github.com/bchiang7/v4).
+This repository was originally cloned from [Brittany Chiang](https://brittanychiang.com)'s portfolio repository. To know more about the forking and accreditation rules, check out her [repository](https://github.com/bchiang7/v4).
