@@ -21,7 +21,13 @@
    npm install -g gatsby-cli
    ```
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+2. Install the GitHub Pages package
+
+   ```sh
+   npm install gh-pages
+   ```
+
+3. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
    ```sh
    nvm install
